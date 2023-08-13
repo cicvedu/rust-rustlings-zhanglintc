@@ -20,7 +20,7 @@
 //
 // No hints this time!
 
-// I AM NOT DONE
+// I AM DONE
 
 pub enum Command {
     Uppercase,
@@ -50,7 +50,7 @@ mod my_module {
 #[cfg(test)]
 mod tests {
     // TODO: What do we need to import to have `transformer` in scope?
-    use crate::my_module::transformer;
+    use super::my_module::transformer;
     use super::Command;
 
     #[test]
