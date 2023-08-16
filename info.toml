@@ -15,12 +15,12 @@ mode = "compile"
 hint = """
 Add an argument after the format string."""
 
-[[exercises]]
-name = "intro3"
-path = "exercises/intro/intro3.rs"
-mode = "compile"
-hint = """
-Let's start!"""
+# [[exercises]]
+# name = "intro3"
+# path = "exercises/intro/intro3.rs"
+# mode = "compile"
+# hint = """
+# Let's start!"""
 
 # VARIABLES
 
